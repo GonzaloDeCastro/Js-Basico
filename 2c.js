@@ -12,4 +12,4 @@ palabra1 = "Utilizando oración de ejemplo";
 palabra2 = palabra1.substring(palabra1.length - 3);
 
 
-console.log(palabra2);
+console.log(palabra2); 
