@@ -15,6 +15,6 @@ function validaentero(a){
     }
 }
 
-validaentero(2);
 
-console.log(resultado);
+
+console.log(validaentero(2.9));
